@@ -1,5 +1,5 @@
 ﻿account_id = "008e644f5cf8745e7b5eb995da5789a0"
-name = "cloudflare-ppages"
+name = "cloudflare-pages"
 workers_dev = true
 compatibility_date = "2026-01-01"
 
